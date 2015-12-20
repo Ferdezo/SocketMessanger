@@ -1,0 +1,13 @@
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\bin\Debug\MessangerForm.exe.config
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\bin\Debug\MessangerForm.exe
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\bin\Debug\MessangerForm.pdb
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\bin\Debug\MessangerControll.dll
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\bin\Debug\MessangerControll.pdb
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\obj\Debug\MessangerForm.csprojResolveAssemblyReference.cache
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\obj\Debug\MessangerForm.Form1.resources
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\obj\Debug\MessangerForm.Properties.Resources.resources
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\obj\Debug\MessangerForm.csproj.GenerateResource.Cache
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\obj\Debug\MessangerForm.exe
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\obj\Debug\MessangerForm.pdb
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\bin\Debug\CommunicationManager.dll
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerForm\bin\Debug\CommunicationManager.pdb

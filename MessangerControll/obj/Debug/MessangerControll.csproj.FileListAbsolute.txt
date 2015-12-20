@@ -1,0 +1,9 @@
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\bin\Debug\MessangerControll.dll
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\bin\Debug\MessangerControll.pdb
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\obj\Debug\MessangerControll.csprojResolveAssemblyReference.cache
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\obj\Debug\MessangerControll.MessangerControll.resources
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\obj\Debug\MessangerControll.csproj.GenerateResource.Cache
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\obj\Debug\MessangerControll.dll
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\obj\Debug\MessangerControll.pdb
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\bin\Debug\CommunicationManager.dll
+G:\Dropbox\STUDIA\PNET\Projekty\Messanger\MessangerControll\bin\Debug\CommunicationManager.pdb
